@@ -1,0 +1,12 @@
+.dropDownList {
+    display: none;
+}
+
+.dropDownList.active {
+    display: block;
+    
+}
+
+.toggleDropDown {
+    cursor: pointer;
+}
